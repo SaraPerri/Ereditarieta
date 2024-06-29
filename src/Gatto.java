@@ -3,7 +3,6 @@ public class Gatto extends Animale{
         super("meow");
     }
 
-    @Override
     public void faiIlVerso() {
         super.faiIlVerso();
     }
